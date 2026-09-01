@@ -9,14 +9,7 @@ Firmware for ESP32-S3 to control 6 independent LED channels with 10-bit PWM dimm
 * WireGuard VPN tunnel for secure MQTT communication.
 * Web-based OTA firmware updates.
 
-## Build
-```bash
-pio run -t upload
 
 
-
-
-.
-
-https://github.com/user-attachments/assets/7ffa85c0-9c1a-498b-a39f-cdd80eb669a4
+https://github.com/user-attachments/assets/de26b639-2acc-4bf8-9b2e-c137fb51c95f
 
